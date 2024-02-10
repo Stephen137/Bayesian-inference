@@ -1,11 +1,11 @@
-# Inference
+## Inference
 
 `Frequentist` inference and `Bayesian` inference are two distinct approaches to statistical inference, differing primarily in their interpretation of probability and their methods of analysis.
 
-## Frequentist
+### Frequentist
 Frequentist inference relies on the concept of long-run frequencies or probabilities derived from repeated sampling. It treats *parameters* as **fixed** but **unknown** values and estimates them through sample data. Hypothesis testing and confidence intervals are common tools in frequentist inference. This approach does not incorporate prior beliefs or subjective information into the analysis.
 
-## Bayesian
+### Bayesian
 Bayesian inference, on the other hand, incorporates prior knowledge or beliefs about parameters into the analysis, updating them with observed data to obtain a posterior distribution. Probability is interpreted as a measure of uncertainty or degree of belief, allowing for a more flexible and intuitive approach to modeling uncertainty. Bayesian inference provides **estimates** of *parameters* along with measures of uncertainty, and it allows for direct probability statements about hypotheses.
 
 In the context of business modeling, Bayesian inference offers several benefits over frequentist approaches :
